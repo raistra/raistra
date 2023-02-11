@@ -1,7 +1,7 @@
 - 👋 Hi there! I'm @raistra
 - 🔭 I’m interested in data science and analytics
-- 🌱 I’m currently learning about statistics in uni
+- 🌱 I’m currently learning statistics in university
 - 📫 How to reach me:
-- linkedin.com/in/raistraaurel/ 
-- raistra.aurel@ui.ac.id
+- 📧 LinkedIn: linkedin.com/in/raistraaurel/
+- 📧 Email: raistra.aurel@ui.ac.id
 
